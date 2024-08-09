@@ -26,7 +26,7 @@
 <a href="https://fb.com/amanullahshiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanullahshiam" height="30" width="40" /></a>
 <a href="https://instagram.com/md_am_shiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_am_shiam" height="30" width="40" /></a>
 <a href="https://www.behance.net/activeeffect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="activeeffect" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/[@cheapmasterpiece](https://www.youtube.com/@CheapMasterpiece)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cheapmasterpiece" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cheapmasterpiece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cheapmasterpiece" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/QKqFS9ytuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QKqFS9ytuz" height="30" width="40" /></a>
 </p>
 

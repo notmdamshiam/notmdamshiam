@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Am Shiam</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" alt="">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java and Python**
 

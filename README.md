@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/notmdamshiam/](https://github.com/notmdamshiam/)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development And Games**
 
 - 📫 How to reach me **amanullahshiam12@gmail.com**
 

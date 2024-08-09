@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=09F2F7&width=435&lines=Hi+There!+%F0%9F%91%8B+;Itz+Md+Am+SHiam;I+From+Bangladesh;And+I+Am+a+Web+Developer%2C;Game+Developer+And+;Designer+And+Video+Editor;And+I+Am+a+Gamer+To;I+Love+To+Play+MInecraft%2C;Valorant%2C+CS2;Call+of+Duty+And+More" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=09F2F7&width=435&lines=Hi+There!+%F0%9F%91%8B+;Itz+Md+Am+SHiam;I+From+Bangladesh;And+I+Am+a+Web+Developer%2C;Game+Developer+And+;Designer+And+Video+Editor;And+I+Am+a+Gamer+To;I+Love+To+Play+MInecraft%2C;Valorant%2C+CS2;Call+of+Duty+And+More" alt="Typing SVG" align="center" /></a>
 
 <h1 align="center">Hi 👋, I'm Md Am Shiam</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>

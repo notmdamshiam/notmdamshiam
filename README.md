@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Am Shiam</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3B0tgJApKGlmpVj8i3ydba&ust=1723298600664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCqv9iJ6IcDFQAAAAAdAAAAABAK" alt="">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3B0tgJApKGlmpVj8i3ydba&ust=1723298600664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCqv9iJ6IcDFQAAAAAdAAAAABAK" alt="">
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java and Python**
 

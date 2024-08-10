@@ -5,9 +5,9 @@
 
 <h2 align="center">A passionate frontend developer from bangladesh</h2>
 
-<h4 align="center">About Me 🎉
+<h4 align="center">About Me 🎉</h4>
 
-Hey there! I'm a tech-savvy multitasker who wears many hats 🎩—programmer 👨‍💻, content creator 🎥, video editor ✂️, and developer 💻. Whether I'm diving into code with HTML, CSS, Java, JavaScript, or Python 🐍, or crafting epic videos and designs with Adobe Premiere Pro and Photoshop 🎨, I’m all about making cool stuff happen.
+<h4 align="center">Hey there! I'm a tech-savvy multitasker who wears many hats 🎩—programmer 👨‍💻, content creator 🎥, video editor ✂️, and developer 💻. Whether I'm diving into code with HTML, CSS, Java, JavaScript, or Python 🐍, or crafting epic videos and designs with Adobe Premiere Pro and Photoshop 🎨, I’m all about making cool stuff happen.
 
 I’m not just all about the serious stuff, though! I dabble a bit in Adobe Illustrator 🖌️ (still figuring out the pen tool 😅). My journey in the digital world is a blend of geeky coding sessions and creative brainstorming bursts 🚀.
 

@@ -1,3 +1,5 @@
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=09F2F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+;Itz+Md+Am+SHiam;I+From+Bangladesh;And+I+Am+a+Web+Developer%2C;Game+Developer+And+;Designer+And+Video+Editor;And+I+Am+a+Gamer+To;I+Love+To+Play+MInecraft%2C;Valorant%2C+CS2;Call+of+Duty+And+More" alt="Typing SVG" /></a>
 
 
@@ -110,6 +112,52 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+  ```php
+<?php
+
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'Creative Effect',
+                'position' => 'CEO/Owner'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+            HTML::class,
+            CSS::class,
+            Java::class,
+            Javascript::class,
+            Python::class,
+            Php::class,
+            C::class,
+            C Plus Plus::class,
+            CSharp::class,
+            SQL::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
+
+---
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -124,3 +172,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>

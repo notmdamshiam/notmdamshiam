@@ -105,7 +105,7 @@ Let’s create something awesome together! 🌟</h4>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="notmdamshiam's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
@@ -113,12 +113,11 @@ Let’s create something awesome together! 🌟</h4>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=notmdamshiam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="notmdamshiam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=notmdamshiam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+<img alt="notmdamshiam's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=notmdamshiam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   ```php
 <?php
@@ -185,3 +184,9 @@ class About extends Me
 	<a href="https://git.io/typing-svg">
 		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
 </div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/notmdamshiam/count.svg?"  />
+</div>
+
+###

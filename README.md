@@ -3,7 +3,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=09F2F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+;Itz+Md+Am+SHiam;I+From+Bangladesh;And+I+Am+a+Web+Developer%2C;Game+Developer+And+;Designer+And+Video+Editor;And+I+Am+a+Gamer+To;I+Love+To+Play+MInecraft%2C;Valorant%2C+CS2;Call+of+Duty+And+More" alt="Typing SVG" /></a>
 
 
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
+<h2 align="center">A passionate frontend developer from bangladesh</h2>
+
+<h4 align="center">About Me 🎉
+
+Hey there! I'm a tech-savvy multitasker who wears many hats 🎩—programmer 👨‍💻, content creator 🎥, video editor ✂️, and developer 💻. Whether I'm diving into code with HTML, CSS, Java, JavaScript, or Python 🐍, or crafting epic videos and designs with Adobe Premiere Pro and Photoshop 🎨, I’m all about making cool stuff happen.
+
+I’m not just all about the serious stuff, though! I dabble a bit in Adobe Illustrator 🖌️ (still figuring out the pen tool 😅). My journey in the digital world is a blend of geeky coding sessions and creative brainstorming bursts 🚀.
+
+When I’m not busy debugging or editing, you might find me dreaming up the next big idea 💡 or enjoying a well-deserved coffee break ☕.
+
+Let’s create something awesome together! 🌟</h4>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
